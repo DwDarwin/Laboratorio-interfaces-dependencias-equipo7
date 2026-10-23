@@ -3,6 +3,7 @@ public class PreparadorBebidas {
     private EquipoCocina equipo1;
     private EquipoCocina equipo2;
 
+
     public PreparadorBebidas(EquipoCocina equipo1, EquipoCocina equipo2) {
         this.equipo1 = equipo1;
         this.equipo2 = equipo2;
