@@ -1,4 +1,3 @@
-package src;
 
 public class PreparadorBebidas {
     private Cafetera cafetera;
