@@ -6,12 +6,12 @@ public class Cafetera implements EquipoCocina {
     @Override
     public void encender() {
         encendida = true;
-        System.out.println("src.Cafetera encendida.");
+        System.out.println("Cafetera encendida.");
     }
     @Override
     public void apagar() {
         encendida = false;
-        System.out.println("src.Cafetera apagada.");
+        System.out.println("Cafetera apagada.");
     }
     @Override
     public void preparar() {
