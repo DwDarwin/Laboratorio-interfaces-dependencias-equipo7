@@ -1,0 +1,36 @@
+C:\Users\user\.jdks\temurin-21.0.12.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.3\lib\idea_rt.jar=52744" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\user\IdeaProjects\Laboratorio-Interfaces-Dependencias-Equipo7\out\production\Laboratorio-Interfaces-Dependencias-Equipo7 TestAnalisis
+Configuracion 1 cafetera+licudora
+Iniciando preparacion del desayuno...
+Cafetera encendida.
+Preparando cafe con intensidad 1.
+Licuadora encendida.
+Licuando ingredientes a velocidad 1.
+Desayuno listo.
+Apagando equipos...
+Cafetera apagada.
+Licuadora apagada.
+Equipos apagados.
+------------------------------------------------
+Configuracion 2 Maquina te+Exprimidor
+Iniciando preparacion del desayuno...
+Maquina de Te encendida, calentando agua.
+Preparando té con intensidad:  1.
+Exprimidor encendido.
+Exprimiendo frutas a velocidad 1.
+Desayuno listo.
+Apagando equipos...
+Maquina de Te apagada.
+Exprimidor apagado.
+Equipos apagados.
+------------------------------------------------
+configuracion 3 cafetera+cafetera
+Iniciando preparacion del desayuno...
+Cafetera encendida.
+Preparando cafe con intensidad 1.
+Cafetera encendida.
+Preparando cafe con intensidad 1.
+Desayuno listo.
+Apagando equipos...
+Cafetera apagada.
+Cafetera apagada.
+Equipos apagados.
