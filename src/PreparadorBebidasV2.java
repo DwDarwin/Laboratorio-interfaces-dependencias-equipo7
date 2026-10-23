@@ -13,6 +13,7 @@ public class PreparadorBebidasV2 {
         for(EquipoCocina equipo: equipos){
             equipo.encender();
             equipo.preparar();
+            equipo.ajustarIntensidad();
 
         }
         System.out.println("Desayuno listo.");
